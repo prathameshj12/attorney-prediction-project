@@ -5,7 +5,7 @@ This project builds a machine learning model to predict whether an insurance cla
 ## Project Overview
 
 - **Domain**: Insurance / Legal Analytics  
-- **Problem Statement**: Predict if an attorney will be involved in an insurance claim.  
+- **Problem Statement**: Predict if an attorney will be involved in an insurance claim.
 - **Type**: Classification  
 - **Tech Stack**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
