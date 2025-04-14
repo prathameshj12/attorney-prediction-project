@@ -14,7 +14,7 @@ A machine learning + Streamlit powered tool to predict whether an insurance clai
 
 - **Domain**: Insurance / Legal Analytics  
 - **Problem Type**: Classification  
-- **Tech Stack**: Python, Pandas, Scikit-learn, XGBoost, Streamlit  
+- **Tech Stack**: Python, Pandas, Scikit-learn, XGBoost, Streamlit 
 
 ## Features
 
