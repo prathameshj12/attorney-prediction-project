@@ -20,17 +20,18 @@ A machine learning + Streamlit powered tool to predict whether an insurance clai
 
 - Predicts attorney involvement based on user inputs.
 - Interactive Streamlit interface with clear visualization of prediction and confidence.
-- Uses feature-engineered pipeline and a trained ML model (`best_model.pkl`).
+- Uses feature-engineered pipeline and a trained ML model.
 
 ---
 
 ## Workflow Summary
 
-1. **Preprocessing**: Imputation, encoding, feature scaling.
-2. **EDA**: Explored patterns of attorney involvement.
-3. **Modeling**: Trained multiple models (Logistic Regression, XGBoost, Neural Network, etc.)
-4. **Evaluation**: Accuracy, Precision, Recall, ROC-AUC.
-5. **Deployment**: Integrated final model into a Streamlit app.
+1. **Data Preprocessing**: Handled missing values, encoded categorical variables, and scaled numerical features.
+2. **Exploratory Data Analysis (EDA)**: Uncovered insights on claim patterns and attorney involvement.
+3. **Model Training**: Compared models like Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), XGBoost, LightGBM and Neural Network.
+4. **Evaluation**: Used accuracy, precision, recall, and ROC-AUC to evaluate performance.
+5. **Prediction**: Built a final model pipeline to make predictions on unseen data.
+6. **Deployment**: Integrated final model into a Streamlit app.
 
 ---
 
@@ -72,7 +73,6 @@ streamlit run app.py
 ```
 .
 ├── app.py                             # Streamlit app
-├── best_model.pkl                     # Final trained model pipeline
 ├── Attorney_Involvement_in_Insurance_Claims_GitHub.ipynb
 ├── assets/
 │   └── attorney_predictor_ui.jpg      # Screenshot of the UI
