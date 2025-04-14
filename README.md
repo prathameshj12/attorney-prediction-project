@@ -3,13 +3,6 @@
 A machine learning + Streamlit powered tool to predict whether an insurance claim is likely to involve an attorney. This assists insurers in proactively flagging claims that may require legal attention based on the claimant, accident, and policy details.
 
 ---
-
-## Streamlit App Snapshot
-
-![WhatsApp Image 2025-03-29 at 17 56 29_48f1d97c](https://github.com/user-attachments/assets/9ae6174a-1c96-47f6-bd29-4a0642a42a00)
-
----
-
 ## Project Overview
 
 - **Domain**: Insurance / Legal Analytics  
