@@ -68,7 +68,6 @@ streamlit run app.py
 ├── claim_predictor.py                             # Streamlit app
 ├── Attorney_Involvement_in_Insurance_Claims_GitHub.ipynb
 ├── assets/
-│   └── attorney_predictor_ui.jpg      # Screenshot of the UI
 ├── README.md
 ├── requirements.txt
 ```
