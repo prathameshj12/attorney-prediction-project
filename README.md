@@ -6,7 +6,7 @@ A machine learning + Streamlit powered tool to predict whether an insurance clai
 
 ## Streamlit App Snapshot
 
-![Streamlit Screenshot](assets/attorney_predictor_ui.jpg)
+![WhatsApp Image 2025-03-29 at 17 56 29_48f1d97c](https://github.com/user-attachments/assets/9ae6174a-1c96-47f6-bd29-4a0642a42a00)
 
 ---
 
